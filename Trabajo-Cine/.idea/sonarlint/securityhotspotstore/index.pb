@@ -1,0 +1,19 @@
+
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+G
+src/main/kotlin/Main.kt,d\8\d83ae3847b7d408136086cc5e9e95f5f7c126ed5
+c
+3src/main/kotlin/models/complementos/Complementos.kt,b\f\bf965fc2c6bb443c42b00ac096c6dbeb4b50849e
+Y
+)src/main/kotlin/models/butacas/Butacas.kt,7\0\70b94b8c839dbcdab2a8c61157200b6e104ce7ac
+\
+,src/main/kotlin/models/complementos/Otros.kt,8\1\8101cbb4f3fc9d1ae3be0baa7750da76a4749400
+X
+(src/main/kotlin/models/butacas/Estado.kt,d\8\d871c47d6dee4cce14758d9c9e0423b0e5f4804d
+]
+-src/main/kotlin/models/complementos/Comida.kt,6\d\6d609dd28bf5b9abd71897a75215cc9fd642d336
+V
+&src/main/kotlin/models/butacas/Tipo.kt,f\c\fcdc18f33b2f38a8f7fac90e63b08cb27a528b29
+P
+ src/main/kotlin/config/Config.kt,0\4\043aa446d40a768add682fb019dcec7856967ae3
